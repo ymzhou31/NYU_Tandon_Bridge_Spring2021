@@ -7,7 +7,7 @@ void main1();
 
 void main2();
 
-const int INITAL_ARRAY_SIZE = 5;
+const int INITAL_ARRAY_SIZE = 100;
 
 int main() {
 
